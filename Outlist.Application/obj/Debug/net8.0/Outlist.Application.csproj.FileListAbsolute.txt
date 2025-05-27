@@ -1,0 +1,15 @@
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\bin\Debug\net8.0\Outlist.Application.deps.json
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\bin\Debug\net8.0\Outlist.Application.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\bin\Debug\net8.0\Outlist.Application.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\bin\Debug\net8.0\Outlist.Domain.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\bin\Debug\net8.0\Outlist.Domain.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.csproj.AssemblyReference.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.AssemblyInfoInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.AssemblyInfo.cs
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.csproj.CoreCompileInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist..CB70BC47.Up2Date
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\refint\Outlist.Application.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\Outlist.Application.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Application\obj\Debug\net8.0\ref\Outlist.Application.dll

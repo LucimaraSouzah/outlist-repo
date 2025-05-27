@@ -1,0 +1,5 @@
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net9.0\Outlist.Infrastructure.csproj.AssemblyReference.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net9.0\Outlist.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net9.0\Outlist.Infrastructure.AssemblyInfoInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net9.0\Outlist.Infrastructure.AssemblyInfo.cs
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net9.0\Outlist.Infrastructure.csproj.CoreCompileInputs.cache

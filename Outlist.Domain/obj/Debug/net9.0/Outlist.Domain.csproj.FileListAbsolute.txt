@@ -1,0 +1,11 @@
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\bin\Debug\net9.0\Outlist.Domain.deps.json
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\bin\Debug\net9.0\Outlist.Domain.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\bin\Debug\net9.0\Outlist.Domain.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.AssemblyInfoInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.AssemblyInfo.cs
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\refint\Outlist.Domain.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\Outlist.Domain.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Domain\obj\Debug\net9.0\ref\Outlist.Domain.dll

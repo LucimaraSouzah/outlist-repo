@@ -1,0 +1,6 @@
+{
+  "Outlist.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Dev\\Projetos\\LuizaLabs\\OutlistService\\Outlist.API",
+  "Outlist.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Dev\\Projetos\\LuizaLabs\\OutlistService\\Outlist.Application",
+  "Outlist.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Dev\\Projetos\\LuizaLabs\\OutlistService\\Outlist.Domain",
+  "Outlist.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Dev\\Projetos\\LuizaLabs\\OutlistService\\Outlist.Infrastructure"
+}

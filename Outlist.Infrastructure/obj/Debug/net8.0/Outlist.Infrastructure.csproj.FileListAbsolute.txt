@@ -1,0 +1,17 @@
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Infrastructure.deps.json
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Infrastructure.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Infrastructure.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Application.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Domain.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Application.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\bin\Debug\net8.0\Outlist.Domain.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.csproj.AssemblyReference.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.AssemblyInfoInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.AssemblyInfo.cs
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist..93D75CF8.Up2Date
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\refint\Outlist.Infrastructure.dll
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\Outlist.Infrastructure.pdb
+D:\Dev\Projetos\LuizaLabs\OutlistService\Outlist.Infrastructure\obj\Debug\net8.0\ref\Outlist.Infrastructure.dll
