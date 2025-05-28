@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.IdentityModel.Logging;
 using System.Text;
+using Microsoft.AspNetCore.Authentication;
 
 public class Program
 {
@@ -91,49 +92,9 @@ public class Program
             });
         });
 
-        // JWT
-        var key = Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!);
-        var issuer = builder.Configuration["Jwt:Issuer"];
-        var audience = builder.Configuration["Jwt:Audience"];
-
-        builder.Services.AddAuthentication(options =>
-        {
-            options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-        })
-        .AddJwtBearer(options =>
-        {
-            options.RequireHttpsMetadata = false;
-            options.SaveToken = true;
-            options.TokenValidationParameters = new TokenValidationParameters
-            {
-                ValidateIssuerSigningKey = true,
-                IssuerSigningKey = new SymmetricSecurityKey(key),
-
-                ValidateIssuer = true,
-                ValidIssuer = issuer,
-
-                ValidateAudience = true,
-                ValidAudience = audience,
-
-                ValidateLifetime = true,
-                ClockSkew = TimeSpan.Zero
-            };
-
-            options.Events = new JwtBearerEvents
-            {
-                OnAuthenticationFailed = context =>
-                {
-                    Console.WriteLine("Token inválido: " + context.Exception.Message);
-                    return Task.CompletedTask;
-                },
-                OnChallenge = context =>
-                {
-                    Console.WriteLine("Requisição não autorizada: " + context.ErrorDescription);
-                    return Task.CompletedTask;
-                }
-            };
-        });
+        // Autenthentication
+        builder.Services.AddAuthentication("ApiKeyScheme")
+                         .AddScheme<AuthenticationSchemeOptions, ApiKeyAuthenticationHandler>("ApiKeyScheme", null);
 
         var app = builder.Build();
 
