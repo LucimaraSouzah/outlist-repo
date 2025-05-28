@@ -48,7 +48,6 @@ Abra no Visual Studio e **execute a API (IIS Express)**
 4. Para autenticação, utilize o token genérico abaixo no cabeçalho Authorization::
   ```
   Bearer meu-token-secreto
-
   ```
 
 5. Execute os testes:
